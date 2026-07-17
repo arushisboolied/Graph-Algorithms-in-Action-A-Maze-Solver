@@ -510,7 +510,7 @@ int main(int argc, char* argv[]) {
     }
 
     if (!reachable) {
-        cout << "No path found\n";
+        cout << "Path found: no\n";
         return 0;
     }
 
